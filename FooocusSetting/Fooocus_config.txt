@@ -58,5 +58,5 @@
     "default_advanced_checkbox": true,
     "default_metadata_scheme": "a1111",
     "default_save_metadata_to_images": true,
-    "metadata_created_by": "SDVN"
+    "metadata_created_by": "Meoooo"
 }
