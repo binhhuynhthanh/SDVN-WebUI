@@ -1,1 +1,2 @@
-# CONFYUI - WebUI
+# SDVN-WebUI
+StableDiffusion.VN
